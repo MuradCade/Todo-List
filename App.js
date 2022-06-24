@@ -22,7 +22,7 @@ export default function App() {
 <View style={styles.head}>
 {/* <Task/> */}
 <View style={styles.wrapper}>
-<Text style={styles.title}>Today's Tasks</Text>
+<Text style={styles.title}>Today's Task</Text>
 <Image source={require('./assets/avatar.jpg')} style={styles.avatar}/>
 </View>
 {
