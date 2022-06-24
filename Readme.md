@@ -1,1 +1,1 @@
-# Simple Todo List In React Native
+# Simple Todo List App In React Native
